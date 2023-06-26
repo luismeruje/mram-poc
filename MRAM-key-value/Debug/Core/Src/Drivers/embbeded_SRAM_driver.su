@@ -1,0 +1,5 @@
+../Core/Src/Drivers/embbeded_SRAM_driver.c:37:17:embbeded_sram_write_64bit_blocks	0	static
+../Core/Src/Drivers/embbeded_SRAM_driver.c:26:17:embbeded_sram_write_32bit_blocks	8	static
+../Core/Src/Drivers/embbeded_SRAM_driver.c:15:17:embbeded_sram_write_16bit_blocks	8	static
+../Core/Src/Drivers/embbeded_SRAM_driver.c:4:17:embbeded_sram_write_8bit_blocks	8	static
+../Core/Src/Drivers/embbeded_SRAM_driver.c:48:21:compare_arrays	4	static

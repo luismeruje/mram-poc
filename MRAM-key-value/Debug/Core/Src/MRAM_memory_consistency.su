@@ -1,0 +1,13 @@
+../Core/Src/MRAM_memory_consistency.c:9:6:test_memory_write_latency_elementary_operations	56	static
+../Core/Src/MRAM_memory_consistency.c:69:10:test_write_read_consistency_constant_immediate	16	static
+../Core/Src/MRAM_memory_consistency.c:116:10:test_write_read_consistency_constant	48	static
+../Core/Src/MRAM_memory_consistency.c:180:6:generate_16bit_randoms	16	static
+../Core/Src/MRAM_memory_consistency.c:190:6:generate_32bit_randoms	16	static
+../Core/Src/MRAM_memory_consistency.c:200:5:hasDuplicate	4	static
+../Core/Src/MRAM_memory_consistency.c:209:6:generate_random_mram_addresses	32	static
+../Core/Src/MRAM_memory_consistency.c:230:5:countDuplicates	16	static
+../Core/Src/MRAM_memory_consistency.c:243:9:test_MRAM_data_bus	24	static
+../Core/Src/MRAM_memory_consistency.c:257:6:test_memory_consistency_random_16bits	6040	dynamic,bounded
+../Core/Src/MRAM_memory_consistency.c:291:6:test_memory_consistency_random_32bits	8040	dynamic,bounded
+../Core/Src/MRAM_memory_consistency.c:327:6:test_memory_consistency_random	0	static
+../Core/Src/MRAM_memory_consistency.c:341:5:test_memory_consistency	40	static

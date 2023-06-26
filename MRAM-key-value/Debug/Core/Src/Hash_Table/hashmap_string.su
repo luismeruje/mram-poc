@@ -1,0 +1,12 @@
+../Core/Src/Hash_Table/hashmap_string.c:70:6:print_block_availability	16	static
+../Core/Src/Hash_Table/hashmap_string.c:78:17:create_hash_map_string	16	static
+../Core/Src/Hash_Table/hashmap_string.c:109:8:_ht_string_get_block_address	0	static
+../Core/Src/Hash_Table/hashmap_string.c:126:9:_ht_string_is_block_occupied	16	static
+../Core/Src/Hash_Table/hashmap_string.c:152:6:_ht_string_occupy_block	32	static
+../Core/Src/Hash_Table/hashmap_string.c:179:10:_ht_string_get_block_number	8	static
+../Core/Src/Hash_Table/hashmap_string.c:190:8:ht_string_put	64	static
+../Core/Src/Hash_Table/hashmap_string.c:256:7:ht_string_get	48	static
+../Core/Src/Hash_Table/hashmap_string.c:293:10:ht_string_count_occupied_blocks	4	static
+../Core/Src/Hash_Table/hashmap_string.c:305:5:get_collisions	0	static
+../Core/Src/Hash_Table/hashmap_string.c:309:5:get_replacements	0	static
+../Core/Src/Hash_Table/hashmap_string.c:313:6:destroy_hash_map_string	0	static

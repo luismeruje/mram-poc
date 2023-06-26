@@ -1,0 +1,7 @@
+../Core/Src/Benchmark/Raw_Storage/test_MRAM.c:85:6:generate_MRAM_addresses.constprop	48	static
+../Core/Src/Benchmark/Raw_Storage/test_MRAM.c:155:24:test_write_throughput_MRAM	131136	dynamic
+../Core/Src/Benchmark/Raw_Storage/test_MRAM.c:11:24:test_write_throughput_MRAM_memcpy_string	72	dynamic
+../Core/Src/Benchmark/Raw_Storage/test_MRAM.c:248:24:test_read_throughput_MRAM	131120	dynamic
+../Core/Src/Benchmark/Raw_Storage/test_MRAM.c:85:6:generate_MRAM_addresses	56	static
+../Core/Src/Benchmark/Raw_Storage/test_MRAM.c:118:10:get_write_func	8	static
+../Core/Src/Benchmark/Raw_Storage/test_MRAM.c:215:10:get_read_func	8	static

@@ -1,0 +1,14 @@
+../Core/Src/main.c:117:5:__io_putchar	0	static,ignoring_inline_asm
+../Core/Src/main.c:123:5:_write	4	static,ignoring_inline_asm
+../Core/Src/main.c:134:6:MPU_RegionConfig	24	static
+../Core/Src/main.c:155:6:test_flash	24	static
+../Core/Src/main.c:172:6:test_MRAM_throughput	80	static
+../Core/Src/main.c:220:6:test_MRAM_reads	16	static
+../Core/Src/main.c:236:6:test_MRAM_memcpy	48	static
+../Core/Src/main.c:246:6:test_memories_throughput	0	static
+../Core/Src/main.c:264:6:test_clht	24	static
+../Core/Src/main.c:286:6:_malloc_occupy_32byte	0	static
+../Core/Src/main.c:300:6:print_malloc_map	544	static
+../Core/Src/main.c:438:6:SystemClock_Config	136	static,ignoring_inline_asm
+../Core/Src/main.c:337:5:main	104	static,ignoring_inline_asm
+../Core/Src/main.c:690:6:Error_Handler	0	static,ignoring_inline_asm

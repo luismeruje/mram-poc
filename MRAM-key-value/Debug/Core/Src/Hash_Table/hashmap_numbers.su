@@ -1,0 +1,9 @@
+../Core/Src/Hash_Table/hashmap_numbers.c:28:18:create_hash_map_numbers	8	static
+../Core/Src/Hash_Table/hashmap_numbers.c:37:10:_get_block_address	0	static
+../Core/Src/Hash_Table/hashmap_numbers.c:43:10:_get_block_number	0	static
+../Core/Src/Hash_Table/hashmap_numbers.c:50:10:_is_block_occupied	0	static
+../Core/Src/Hash_Table/hashmap_numbers.c:58:6:_occupy_block	0	static
+../Core/Src/Hash_Table/hashmap_numbers.c:65:8:hash_map_numbers_put	32	static
+../Core/Src/Hash_Table/hashmap_numbers.c:97:10:hash_map_numbers_get	56	static
+../Core/Src/Hash_Table/hashmap_numbers.c:126:10:_count_occupied_blocks	4	static
+../Core/Src/Hash_Table/hashmap_numbers.c:138:6:test_hash_function	16	static
