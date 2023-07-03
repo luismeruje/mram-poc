@@ -2,4 +2,5 @@ This repository was created to provide support information for the evaluation pr
 
 To see how we tested SQLite on the STM32 platform, see this repository: https://github.com/luismeruje/SQLite-STM32
 
+To see how we tested raw storage device and key-value performance, see the code in the `MRAM-key-value` folder.
 
