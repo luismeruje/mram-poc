@@ -1,4 +1,4 @@
-#Towards MRAM Byte-Addressable Persistent Memory in Edge
+# Towards MRAM Byte-Addressable Persistent Memory in Edge
 Database Systems
 
 This repository is a placeholder to redirect readers of "Towards MRAM Byte-Addressable Persistent Memory in Edge
